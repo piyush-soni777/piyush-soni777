@@ -12,6 +12,8 @@
 # 📊 GitHub Stats:
 
 <br/>
+![](https://github-readme-stats.shion.dev/api?username=piyush-soni777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=piyush-soni777&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=piyush-soni777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies

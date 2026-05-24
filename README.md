@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Piyush%20Soni&fontSize=42&fontColor=ffffff&animation=twinkling" />
+  <div align="center" style="margin-bottom: 0;">
+  <img src="profile.jpg" width="180" style="border-radius: 50%; box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37); border: 4px solid #1d4ed8; background: linear-gradient(135deg,#1d4ed8 0%,#06b6d4 100%); animation: floaty 3s ease-in-out infinite alternate;" alt="Piyush Soni profile" />
+</div>
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&lines=Welcome+To+My+Profile;Frontend+Dev+%7C+CS+Student+%7C+Creator;Programmer+💻" alt="Typing Animation"/>
 </h1>

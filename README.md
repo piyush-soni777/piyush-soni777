@@ -1,4 +1,6 @@
-#                                                          Hello,I Piyush Soni👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Piyush%20Soni&fontSize=42&fontColor=ffffff&animation=twinkling" />
+</p>
 💻 I am a Computer Science Engineering student passionate about web development and programming.  <br>🚀 I enjoy building responsive websites, interactive JavaScript applications, and creative UI projects.<br>🎮 I have developed many projects.<br>🛠️ My skills include HTML, CSS, JavaScript, Python, Java, and SQL.  <br>🌱 Currently learning advanced development concepts and exploring real-world project ideas.  <br>💡 I love solving problems through code and continuously improving my skills. <br>🎯 My goal is to become a full-stack developer and create impactful digital solutions.<br>
 
 

@@ -13,7 +13,14 @@
 
 
 ![](https://github-readme-stats.shion.dev/api?username=piyush-soni777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush-soni777&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-soni777&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-soni777&layout=compact&theme=radical&hide_border=true" width="60%" />
+</p><br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=piyush-soni777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies

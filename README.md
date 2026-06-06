@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Piyush%20Soni&fontSize=42&fontColor=ffffff&animation=twinkling" />
- 
+  
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&lines=Welcome+To+My+Profile;Frontend+Dev+%7C+CS+Student+%7C+Creator;Programmer+💻" alt="Typing Animation"/>
 </h1>

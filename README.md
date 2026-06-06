@@ -6,7 +6,7 @@
 </h1>
 </p>
 💻 I am a Computer Science Engineering student passionate about web development and programming.  <br>🚀 I enjoy building responsive websites, interactive JavaScript applications, and creative UI projects.<br>🎮 I have developed many projects.<br>🛠️ My skills include HTML, CSS, JavaScript, Python, Java, and SQL.  <br>🌱 Currently learning advanced development concepts and exploring real-world project ideas.  <br>💡 I love solving problems through code and continuously improving my skills. <br>🎯 My goal is to become a full-stack developer and create impactful digital solutions.<br>
-   
+        
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyush-soni777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-soni777) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushsoni7777777@gmail.com) 
